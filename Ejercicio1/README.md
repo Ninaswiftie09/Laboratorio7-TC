@@ -10,7 +10,7 @@
 - main: programa principal que integra todo: carga las gramáticas, valida su formato, muestra la gramática original, calcula símbolos anulables y finalmente genera la gramática sin producciones-ϵ.
 
 ## Enlaces
-- Vídeo Demostrativo (ejercicio 1): 
+- Vídeo Demostrativo (ejercicio 1): https://youtu.be/d4d1w3p1Co8
 - Repositorio GitHub: https://github.com/Ninaswiftie09/Laboratorio7-TC
 
 

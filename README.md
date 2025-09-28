@@ -5,7 +5,7 @@
 - Ejercicio 2: se encuentra el procedimiento de los problemas del ejercicio 2.
 
 ## Enlaces
-- Vídeo Demostrativo (ejercicio 1): 
+- Vídeo Demostrativo (ejercicio 1): https://youtu.be/d4d1w3p1Co8
 - Repositorio GitHub: https://github.com/Ninaswiftie09/Laboratorio7-TC
 
 ## Integrantes
